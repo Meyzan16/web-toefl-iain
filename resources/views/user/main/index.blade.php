@@ -2,7 +2,7 @@
 
 @section('content')
 
-<section id="pengumuman" class="py-24  bg-white">
+<section id="pengumuman" class="py-20  bg-white">
     <div class="container" data-aos="fade-up"   data-aos-duration="500">
         <div class="w-full px-4">
                 <div class="mx-auto text-center mb-8">
